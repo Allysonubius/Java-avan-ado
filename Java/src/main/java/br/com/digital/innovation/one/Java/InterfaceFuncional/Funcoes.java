@@ -1,6 +1,7 @@
 package br.com.digital.innovation.one.Java.InterfaceFuncional;
 
 import java.util.function.Function;
+import java.util.function.Predicate;
 
 public class Funcoes {
     public  static void main(String[] args ){
